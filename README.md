@@ -4,10 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimqureshi656&label=Profile%20views&color=0e75b6&style=flat" alt="saimqureshi656" /> </p>
 
-- 🌱 I’m currently learning **Python, AI Tools, and Vector Databases**
-- 💬 Ask me about **Python, NLP, and Chatbot Development**
+- 🌱 I’m currently learning **AI/ML**
+- 💬 Ask me about **AI**
 - 📫 How to reach me **saimqureshi656@gmail.com**
-- 💼 Internship: **AI Intern at Tryzone, worked on LLM-based chatbots and vector databases**
+- 💼 Internship: **AI Intern at Tryzone, worked on LLM-based chatbots**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,14 +18,8 @@
 <h3 align="left">Skills:</h3>
 <ul>
   <li>Programming: Python, Java, C</li>
-  <li>AI/ML: NLP, Large Language Models, Vector Databases, Chatbot Development</li>
-  <li>Web Development: HTML, CSS, Bootstrap</li>
-  <li>Databases: MySQL, SQLite</li>
-  <li>Tools: Hugging Face, NLTK, Git</li>
+  <li>Python Libraries: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, OpenCV (basic), Hugging Face Transformers (beginner), LangChain (beginner)</li>
+  <li>AI Tools: LangChain, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), OpenAI API, Hugging Face Transformers, and Machine Learning.</li>
+  <li>Soft Skills: Critical Thinking, Problem-Solving, Team Collaboration, Communication</li>
 </ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimqureshi656&show_icons=true&locale=en&layout=compact" alt="saimqureshi656" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saimqureshi656&show_icons=true&locale=en" alt="saimqureshi656" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saimqureshi656&" alt="saimqureshi656" /></p>
